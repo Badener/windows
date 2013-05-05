@@ -1,0 +1,588 @@
+managed-keys-zone: loaded serial 0
+zone 127.0.0.1/IN: loading from master file C:\Program Files (x86)\bind\etc\master\db\db.172.0.0.1 failed: file not found
+zone 127.0.0.1/IN: not loaded due to errors.
+all zones loaded
+running
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+could not open file 'C:\Program Files (x86)\bind\etc\named.pid': Permission denied
+generating session key for dynamic DNS
+could not open file 'C:\Program Files (x86)\bind\etc\session.key': Permission denied
+could not create C:\Program Files (x86)\bind\etc\session.key
+failed to generate session key for dynamic DNS: permission denied
+sizing zone task pool based on 2 zones
+root.hints:34: file does not end with newline
+zone 127.0.0.1/IN: (master) removed
+reloading configuration succeeded
+reloading zones succeeded
+zone 127.0.0.1/IN: loaded serial 2013050401
+all zones loaded
+running
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+could not open file 'C:\Program Files (x86)\bind\etc\named.pid': File exists
+generating session key for dynamic DNS
+could not open file 'C:\Program Files (x86)\bind\etc\session.key': Permission denied
+could not create C:\Program Files (x86)\bind\etc\session.key
+failed to generate session key for dynamic DNS: permission denied
+sizing zone task pool based on 2 zones
+root.hints:34: file does not end with newline
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+could not open file 'C:\Program Files (x86)\bind\etc\named.pid': File exists
+generating session key for dynamic DNS
+could not open file 'C:\Program Files (x86)\bind\etc\session.key': File exists
+could not create C:\Program Files (x86)\bind\etc\session.key
+failed to generate session key for dynamic DNS: permission denied
+sizing zone task pool based on 2 zones
+root.hints:34: file does not end with newline
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+error (unexpected RCODE SERVFAIL) resolving 'www.spurl.net/A/IN': 69.65.125.238#53
+error (unexpected RCODE SERVFAIL) resolving 'www.spurl.net/A/IN': 64.13.135.17#53
+error (unexpected RCODE SERVFAIL) resolving 'www.spurl.net/A/IN': 64.13.143.21#53
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+could not open file 'C:\Program Files (x86)\bind\etc\named.pid': File exists
+generating session key for dynamic DNS
+could not open file 'C:\Program Files (x86)\bind\etc\session.key': File exists
+could not create C:\Program Files (x86)\bind\etc\session.key
+failed to generate session key for dynamic DNS: permission denied
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+could not open file 'C:\Program Files (x86)\bind\etc\named.pid': File exists
+generating session key for dynamic DNS
+could not open file 'C:\Program Files (x86)\bind\etc\session.key': Permission denied
+could not create C:\Program Files (x86)\bind\etc\session.key
+failed to generate session key for dynamic DNS: permission denied
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+could not open file 'C:\Program Files (x86)\bind\etc\named.pid': Permission denied
+generating session key for dynamic DNS
+could not open file 'C:\Program Files (x86)\bind\etc\session.key': Permission denied
+could not create C:\Program Files (x86)\bind\etc\session.key
+failed to generate session key for dynamic DNS: permission denied
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+generating session key for dynamic DNS
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+error (insecurity proof failed) resolving 'dlv.isc.org/DLV/IN': 212.82.226.212#53
+validating @02D30048: dlv.isc.org DNSKEY: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'dlv.isc.org/DNSKEY/IN': 212.82.226.212#53
+  validating @033D7008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'trainsignal.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @023E57C8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02DC0008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'wordpress.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @02DC0008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02E69C18: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @030529C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'smaftoul.wordpress.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'smaftoul.wordpress.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.debian-administration.org.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @023E57C8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02DB2058: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'dnsstuff.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @02DB2058: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'www.dnsstuff.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.dnsstuff.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02EE1048: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'v6fix.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'v6fix.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @023E57C8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'de.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @033D7008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'google.de.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'google.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @023E57C8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02DB2058: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'creativecommons.org.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @02DB2058: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'i.creativecommons.org.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'i.creativecommons.org.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02EE1048: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @033D7008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'charrett.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @033D7008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'alex.charrett.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'alex.charrett.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @033D7008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'edu.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'psu.edu.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.personal.psu.edu.dlv.isc.org/DLV/IN': 212.82.226.212#53
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+  validating @02FB50A0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @03397008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02DB2058: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'cloudflare.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'tv.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @02DC0008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @010F63E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'cdn.cloudflare.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'webvideopreis.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02DB2058: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'therainman.tv.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'therainman.tv.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'signup.leagueoflegends.com.cdn.cloudflare.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @03197008: . SOA: no valid signature found
+  validating @03197008: . NSEC: no valid signature found
+  validating @03197008: bz NSEC: no valid signature found
+  validating @033D7008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02FB50A0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'www.oreilly.de.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.oreilly.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+success resolving 'r.openx.net.dlv.isc.org/DLV' (in 'dlv.isc.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'static-cdn.jtvnw.net.dlv.isc.org/DLV' (in 'dlv.isc.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'b.scorecardresearch.com.dlv.isc.org/DLV' (in 'dlv.isc.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'api.mixpanel.com.dlv.isc.org/DLV' (in 'dlv.isc.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'pdns6.ultradns.co.uk/AAAA' (in 'ultradns.co.uk'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'pdns6.ultradns.co.uk/A' (in 'ultradns.co.uk'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'pdns5.ultradns.info/AAAA' (in 'ultradns.info'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'pdns5.ultradns.info/A' (in 'ultradns.info'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'pdns3.ultradns.org/A' (in 'ultradns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'pdns3.ultradns.org/AAAA' (in 'ultradns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'pdns4.ultradns.org/A' (in 'ultradns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'pdns4.ultradns.org/AAAA' (in 'ultradns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'twitch.wpengine.com/A' (in 'wpengine.com'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns1.transip.nl/A' (in 'transip.nl'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns1.transip.nl/AAAA' (in 'transip.nl'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns4.inwx.com/A' (in 'inwx.com'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'i4.social.s-msft.com/A' (in 's-msft.com'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'support.microsoft.com/A' (in 'microsoft.com'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'login.live.com/A' (in 'live.com'?) after reducing the advertised EDNS UDP packet size to 512 octets
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+success resolving 'perfectworld.com.dlv.isc.org/DLV' (in 'dlv.isc.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'addons.dynect.mozilla.net.dlv.isc.org/DLV' (in 'dlv.isc.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'www.djhardwell.com.dlv.isc.org/DLV' (in 'dlv.isc.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns2.mydyndns.org/AAAA' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns1.mydyndns.org/AAAA' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns3.mydyndns.org/A' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns4.mydyndns.org/A' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns1.mydyndns.org/A' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns4.mydyndns.org/AAAA' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns2.mydyndns.org/A' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns3.mydyndns.org/AAAA' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns5.mydyndns.org/A' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'ns5.mydyndns.org/AAAA' (in 'mydyndns.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+success resolving 'www.isc.org/A' (in 'isc.org'?) after reducing the advertised EDNS UDP packet size to 512 octets
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+error (insecurity proof failed) resolving 'dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02EF6EA8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @038300A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'dec.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'gatekeeper.dec.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'org.ua.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0276F4B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'c.bigmir.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'ua.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'org.ua.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'limitless-caverns-9550.herokuapp.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'tv.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @038300A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'www.dbschenker.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+received control channel command 'reload'
+loading configuration from 'C:\Program Files (x86)\bind\etc\named.conf'
+using default UDP/IPv4 port range: [1024, 65535]
+using default UDP/IPv6 port range: [1024, 65535]
+sizing zone task pool based on 2 zones
+reloading configuration succeeded
+reloading zones succeeded
+zone 127.0.0.1/IN: zone serial (1/2013050401) has gone backwards
+all zones loaded
+zone 127.0.0.1/IN: loaded serial 1
+running
+error (insecurity proof failed) resolving 'dlv.isc.org/DLV/IN': 212.82.226.212#53
+validating @033594B0: dlv.isc.org DNSKEY: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'dlv.isc.org/DNSKEY/IN': 212.82.226.212#53
+  validating @035F0280: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'api.twitch.tv.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'www.tumblr.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'werdrosselt.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.gstatic.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'zdfneo.de.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'natelight.zdfneo.de.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @03197008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'cloudflare.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @03197008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'cdn.cloudflare.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @03197008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'com.cdn.cloudflare.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'natelight.zdfneo.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'leagueoflegends.com.cdn.cloudflare.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'smarturl.it.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'signup.leagueoflegends.com.cdn.cloudflare.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: bz NSEC: no valid signature found
+  validating @0115F1C0: . NSEC: no valid signature found
+  validating @0115F1C0: . SOA: no valid signature found
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'me.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'me.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.myvideo.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'mmoga.de.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'www.mmoga.de.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.mmoga.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'speedtest.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'speedtest.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'ookla.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @03197008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'ads.ookla.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @03197008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'adobe.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'ads.ookla.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @038300A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @03197008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'quantserve.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @037A8CC0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @033D7008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'pixel.quantserve.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @033D7008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'pingtest.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'pixel.quantserve.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @03972008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'get.adobe.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'pingtest.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'get.adobe.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'isprime.com.fpbns.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'bild.videobuster.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0115F1C0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'smartadserver.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @033594B0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @03197008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'ww251.smartadserver.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'ww251.smartadserver.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @038300A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'autobild.de.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.autobild.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @03397008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'ping.chartbeat.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @03397008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'i.i.com.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @03397008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'howtoforge.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'www.howtoforge.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.howtoforge.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @03397008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'justin.tv.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'de.justin.tv.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'de.justin.tv.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @03397008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'c.footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'tv.c.footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @039B64E8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'justin.tv.c.footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'cdn.justin.tv.c.footprint.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @03397008: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'iamexec.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+managed-keys-zone: loaded serial 0
+zone 127.0.0.1/IN: loaded serial 2013050501
+all zones loaded
+running
+validating @011873F0: dlv.isc.org DNSKEY: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'dlv.isc.org/DNSKEY/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'tv.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031ECF28: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031ED9A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031EE428: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @0322EEB0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @0322F930: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @032718B8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'de.justin.tv.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'ssl.gstatic.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 's.meebocdn.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'static-cdn.jtvnw.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'api.mixpanel.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @0322E430: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031ECF28: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'www.google-analytics.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'apis.google.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'plusone.google.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'b.scorecardresearch.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02E11568: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02D90AD8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'meebo.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'rd.meebo.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.meebo.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02D50050: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'fastly.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @02E11568: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'ssl.fastly.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @02E11568: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'static-production.a.ssl.fastly.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'twitchtv.desk.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02D90AD8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @0322E430: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'cam4.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @0322E430: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'cam4.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @0322E430: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'www.cam4.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @0322E430: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'de.cam4.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'de.cam4.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.cam4.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02D50050: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'systemcdn.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'fpbns.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving '9218.systemcdn.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'com.fpbns.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'isprime.com.fpbns.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'isprime.com.fpbns.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02A57E80: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'wac.9218.systemcdn.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'wac.9218.systemcdn.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02D90AD8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'static.addtoany.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02D90AD8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02E11568: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'highwebmedia.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'highwebmedia.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02E11568: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'adultfriendfinder.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'llnwd.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'cwie.vo.llnwd.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031EC4A8: bz NSEC: no valid signature found
+  validating @031EC4A8: . NSEC: no valid signature found
+  validating @031EC4A8: . SOA: no valid signature found
+error (no valid RRSIG) resolving 'me.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'me.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @02D90AD8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'de.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @02D90AD8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'myvideo.de.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.myvideo.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'google.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'it.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'it.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'be.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'be.dlv.isc.org/DLV/IN': 212.82.226.212#53
+*** POKED TIMER ***
+error (insecurity proof failed) resolving 'tv.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02D90AD8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'google.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'google.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031EC4A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'microsoft.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'crl.microsoft.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'crl.microsoft.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'tumblr.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ED728: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @0326F938: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'media.tumblr.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @0326F938: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'mediahint.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @02A20FE8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving '24.media.tumblr.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'mediahint.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @032703B8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving '24.media.tumblr.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving '25.media.tumblr.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'id.google.de.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031EC4A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031ED728: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @03270E38: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @02A20FE8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'crl.verisign.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'crl.verisign.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031EC4A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'gstatic.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'gstatic.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'tv.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.youtube.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'api.twitch.tv.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'gsb2.wac.v2cdn.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031EC4A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'warbaswarzone.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031ED728: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'www.warbaswarzone.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'be.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'www.warbaswarzone.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'youtu.be.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'youtu.be.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (insecurity proof failed) resolving 'be.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (no valid RRSIG) resolving 'to.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'amzn.to.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'amzn.to.dlv.isc.org/DLV/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'to.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @011873F0: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'c.footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'tv.c.footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'justin.tv.c.footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'cdn.justin.tv.c.footprint.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'cdn.justin.tv.c.footprint.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031EC4A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'windowsupdate.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'download.windowsupdate.com.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'download.windowsupdate.com.dlv.isc.org/DLV/IN': 212.82.226.212#53
+  validating @031EC4A8: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'nsatc.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+  validating @031ABA20: dlv.isc.org SOA: got insecure response; parent indicates it should be secure
+error (no valid RRSIG) resolving 'windowsupdate.nsatc.net.dlv.isc.org/DS/IN': 212.82.226.212#53
+error (insecurity proof failed) resolving 'download.windowsupdate.nsatc.net.dlv.isc.org/DLV/IN': 212.82.226.212#53
